@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583422137 source:e:\19s2\cz1007\tutorials\week5_characterstrings\3stringcmp\main.c
+	<stdio.h>
+	<string.h>
+

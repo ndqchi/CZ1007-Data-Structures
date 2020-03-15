@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583430919 source:e:\19s2\cz1007\labs\week5_characterstrings\3palindrome\main.c
+	<stdio.h>
+	<string.h>
+

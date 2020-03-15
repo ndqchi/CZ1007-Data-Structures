@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583421934 source:e:\19s2\cz1007\tutorials\week5_characterstrings\2stringncpy\main.c
+	<stdio.h>
+	<string.h>
+

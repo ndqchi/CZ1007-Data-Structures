@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583424711 source:e:\19s2\cz1007\tutorials\week6_structures\1computecircle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
